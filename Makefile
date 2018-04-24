@@ -1,5 +1,5 @@
 #Samuel Hasan (srh160130@utdallas.edu)
-#Course: CS 3377.502
+#Course: CS 3377.501
 CXX = g++
 CXXFLAGS = -Wall
 CPPFLAGS = 
