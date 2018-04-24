@@ -1,7 +1,7 @@
 /*
  *   PROGRAM 6 THE FINALE
  * Author: Samuel Hasan (srh160130@utdallas.edu)
- * Class: CS 3377.502
+ * Class: CS 3377.501
  */ 
 #include <stdint.h>
 #include <iostream>
